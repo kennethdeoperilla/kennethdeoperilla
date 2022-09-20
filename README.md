@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennethdeoperilla
 - 👀 I’m interested in Cloud Computing, Web development, Android app Development, Python
-- 🌱 I’m currently learning Linux System Administration
+- 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: kennethdeoperilla@gmail.com
 
